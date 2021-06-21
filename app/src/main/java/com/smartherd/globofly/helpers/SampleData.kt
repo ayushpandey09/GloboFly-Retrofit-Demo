@@ -7,7 +7,7 @@ object SampleData {
 
 	val DESTINATIONS = ArrayList<Destination>()
 
-	private var COUNT = 5
+	private var COUNT = 6
 
 	private var dummy_description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce accumsan quis justo quis hendrerit. Curabitur a ante neque. Fusce nec mauris sodales, auctor sem at, luctus eros. Praesent aliquam nibh neque. Duis ut suscipit justo, id consectetur orci. Curabitur ultricies nunc eu enim dignissim, sed laoreet odio blandit."
 
